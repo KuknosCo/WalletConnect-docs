@@ -10,7 +10,7 @@ const config = {
   tagline:
     "WalletConnect is an open protocol to communicate securely between Dapps and Wallets.",
   url: "https://docs.walletconnect.com/",
-  baseUrl: "/",
+  baseUrl: "/WalletConnect-docs/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
