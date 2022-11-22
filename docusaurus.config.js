@@ -24,16 +24,16 @@ const config = {
       {
         docs: {
           breadcrumbs: false,
-          lastVersion: "1.0",
+          lastVersion: "2.0.0",
           routeBasePath: "/",
           sidebarPath: require.resolve("./sidebars.js"),
           editUrl:
             "https://github.com/KuknosCo/WalletConnect-docs",
           versions: {
             current: {
-              badge: false,
-              label: "1.0",
-              path: "1.0",
+              badge: true,
+              label: "2.0.0",
+              path: "2.0.0",
             },
           },
           remarkPlugins: [
