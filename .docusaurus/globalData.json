@@ -1,0 +1,283 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/WalletConnect-docs/",
+      "versions": [
+        {
+          "name": "current",
+          "label": "2.0.0",
+          "isLast": false,
+          "path": "/WalletConnect-docs/2.0.0",
+          "mainDocId": "readme",
+          "docs": [
+            {
+              "id": "client-api/accountBalance",
+              "path": "/WalletConnect-docs/2.0.0/client-api/accountBalance",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "client-api/changeTrust",
+              "path": "/WalletConnect-docs/2.0.0/client-api/changeTrust"
+            },
+            {
+              "id": "client-api/connect",
+              "path": "/WalletConnect-docs/2.0.0/client-api/connect",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "client-api/createKeypair",
+              "path": "/WalletConnect-docs/2.0.0/client-api/createKeypair",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "client-api/curveDecryption",
+              "path": "/WalletConnect-docs/2.0.0/client-api/curveDecryption",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "client-api/curveEncryption",
+              "path": "/WalletConnect-docs/2.0.0/client-api/curveEncryption",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "client-api/disconnect",
+              "path": "/WalletConnect-docs/2.0.0/client-api/disconnect",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "client-api/payment",
+              "path": "/WalletConnect-docs/2.0.0/client-api/payment",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "client-api/setNetwork",
+              "path": "/WalletConnect-docs/2.0.0/client-api/setNetwork",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "client-api/signData",
+              "path": "/WalletConnect-docs/2.0.0/client-api/signData",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "client-api/signXdr",
+              "path": "/WalletConnect-docs/2.0.0/client-api/signXdr",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "client-api/walletConnectStatus",
+              "path": "/WalletConnect-docs/2.0.0/client-api/walletConnectStatus",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "quick-start/dapps/client",
+              "path": "/WalletConnect-docs/2.0.0/quick-start/dapps/client",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "readme",
+              "path": "/WalletConnect-docs/2.0.0/",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "tech-spec",
+              "path": "/WalletConnect-docs/2.0.0/tech-spec",
+              "sidebar": "mainSidebar"
+            }
+          ],
+          "sidebars": {
+            "mainSidebar": {
+              "link": {
+                "path": "/WalletConnect-docs/2.0.0/",
+                "label": "readme"
+              }
+            }
+          }
+        },
+        {
+          "name": "2.0.0",
+          "label": "2.0.0",
+          "isLast": true,
+          "path": "/WalletConnect-docs/",
+          "mainDocId": "readme",
+          "docs": [
+            {
+              "id": "client-api/accountBalance",
+              "path": "/WalletConnect-docs/client-api/accountBalance",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "client-api/changeTrust",
+              "path": "/WalletConnect-docs/client-api/changeTrust"
+            },
+            {
+              "id": "client-api/connect",
+              "path": "/WalletConnect-docs/client-api/connect",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "client-api/createKeypair",
+              "path": "/WalletConnect-docs/client-api/createKeypair",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "client-api/curveDecryption",
+              "path": "/WalletConnect-docs/client-api/curveDecryption",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "client-api/curveEncryption",
+              "path": "/WalletConnect-docs/client-api/curveEncryption",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "client-api/disconnect",
+              "path": "/WalletConnect-docs/client-api/disconnect",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "client-api/payment",
+              "path": "/WalletConnect-docs/client-api/payment",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "client-api/setNetwork",
+              "path": "/WalletConnect-docs/client-api/setNetwork",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "client-api/signData",
+              "path": "/WalletConnect-docs/client-api/signData",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "client-api/signXdr",
+              "path": "/WalletConnect-docs/client-api/signXdr",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "client-api/walletConnectStatus",
+              "path": "/WalletConnect-docs/client-api/walletConnectStatus",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "quick-start/dapps/client",
+              "path": "/WalletConnect-docs/quick-start/dapps/client",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "readme",
+              "path": "/WalletConnect-docs/",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "tech-spec",
+              "path": "/WalletConnect-docs/tech-spec",
+              "sidebar": "mainSidebar"
+            }
+          ],
+          "sidebars": {
+            "mainSidebar": {
+              "link": {
+                "path": "/WalletConnect-docs/",
+                "label": "readme"
+              }
+            }
+          }
+        },
+        {
+          "name": "1.0",
+          "label": "1.0",
+          "isLast": false,
+          "path": "/WalletConnect-docs/1.0",
+          "mainDocId": "readme",
+          "docs": [
+            {
+              "id": "client-api/accountBalance",
+              "path": "/WalletConnect-docs/1.0/client-api/accountBalance",
+              "sidebar": "version-1.0/mainSidebar"
+            },
+            {
+              "id": "client-api/changeTrust",
+              "path": "/WalletConnect-docs/1.0/client-api/changeTrust"
+            },
+            {
+              "id": "client-api/connect",
+              "path": "/WalletConnect-docs/1.0/client-api/connect",
+              "sidebar": "version-1.0/mainSidebar"
+            },
+            {
+              "id": "client-api/createKeypair",
+              "path": "/WalletConnect-docs/1.0/client-api/createKeypair",
+              "sidebar": "version-1.0/mainSidebar"
+            },
+            {
+              "id": "client-api/curveDecryption",
+              "path": "/WalletConnect-docs/1.0/client-api/curveDecryption",
+              "sidebar": "version-1.0/mainSidebar"
+            },
+            {
+              "id": "client-api/curveEncryption",
+              "path": "/WalletConnect-docs/1.0/client-api/curveEncryption",
+              "sidebar": "version-1.0/mainSidebar"
+            },
+            {
+              "id": "client-api/disconnect",
+              "path": "/WalletConnect-docs/1.0/client-api/disconnect",
+              "sidebar": "version-1.0/mainSidebar"
+            },
+            {
+              "id": "client-api/payment",
+              "path": "/WalletConnect-docs/1.0/client-api/payment",
+              "sidebar": "version-1.0/mainSidebar"
+            },
+            {
+              "id": "client-api/setNetwork",
+              "path": "/WalletConnect-docs/1.0/client-api/setNetwork",
+              "sidebar": "version-1.0/mainSidebar"
+            },
+            {
+              "id": "client-api/signData",
+              "path": "/WalletConnect-docs/1.0/client-api/signData",
+              "sidebar": "version-1.0/mainSidebar"
+            },
+            {
+              "id": "client-api/signXdr",
+              "path": "/WalletConnect-docs/1.0/client-api/signXdr",
+              "sidebar": "version-1.0/mainSidebar"
+            },
+            {
+              "id": "client-api/walletConnectStatus",
+              "path": "/WalletConnect-docs/1.0/client-api/walletConnectStatus",
+              "sidebar": "version-1.0/mainSidebar"
+            },
+            {
+              "id": "quick-start/dapps/client",
+              "path": "/WalletConnect-docs/1.0/quick-start/dapps/client",
+              "sidebar": "version-1.0/mainSidebar"
+            },
+            {
+              "id": "readme",
+              "path": "/WalletConnect-docs/1.0/",
+              "sidebar": "version-1.0/mainSidebar"
+            },
+            {
+              "id": "tech-spec",
+              "path": "/WalletConnect-docs/1.0/tech-spec",
+              "sidebar": "version-1.0/mainSidebar"
+            }
+          ],
+          "sidebars": {
+            "version-1.0/mainSidebar": {
+              "link": {
+                "path": "/WalletConnect-docs/1.0/",
+                "label": "version-1.0/readme"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": false
+    }
+  }
+}

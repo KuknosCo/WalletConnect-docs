@@ -1,0 +1,747 @@
+{
+  "entrypoints": [
+    "main"
+  ],
+  "origins": {
+    "4608": [
+      4608
+    ],
+    "6815": [
+      6815
+    ],
+    "6945": [
+      532,
+      6945
+    ],
+    "8894": [
+      532,
+      8894
+    ],
+    "17896441": [
+      532,
+      7918
+    ],
+    "main": [
+      532,
+      1303,
+      179
+    ],
+    "runtime~main": [
+      179,
+      532,
+      1303
+    ],
+    "088d76f9": [
+      532,
+      6657
+    ],
+    "0980e2ae": [
+      7799
+    ],
+    "0bae5296": [
+      3792
+    ],
+    "0c611433": [
+      7432
+    ],
+    "147929c4": [
+      9673
+    ],
+    "1a4e3797": [
+      532,
+      7920
+    ],
+    "1be78505": [
+      532,
+      4608
+    ],
+    "1c35ca06": [
+      1122
+    ],
+    "2248b990": [
+      306
+    ],
+    "23374ca6": [
+      8421
+    ],
+    "278cf360": [
+      2404
+    ],
+    "2d75e6ad": [
+      2925
+    ],
+    "337b4027": [
+      7694
+    ],
+    "352e0155": [
+      2657
+    ],
+    "36570d9b": [
+      8446
+    ],
+    "3d3c38ca": [
+      7910
+    ],
+    "420cd5ad": [
+      8374
+    ],
+    "45e4405f": [
+      4553
+    ],
+    "62d37a14": [
+      136
+    ],
+    "6ce91da7": [
+      5216
+    ],
+    "6fb38357": [
+      309
+    ],
+    "725ff14e": [
+      6125
+    ],
+    "732398f8": [
+      375
+    ],
+    "761becf6": [
+      4337
+    ],
+    "7fc1dd01": [
+      4242
+    ],
+    "87cf1c09": [
+      1663
+    ],
+    "8aa48451": [
+      3450
+    ],
+    "8be04467": [
+      9361
+    ],
+    "92a86bc9": [
+      100
+    ],
+    "935f2afb": [
+      53
+    ],
+    "94fccc14": [
+      8401
+    ],
+    "980ffe1d": [
+      9684
+    ],
+    "992f46b4": [
+      7813
+    ],
+    "9aa54785": [
+      5485
+    ],
+    "9e4087bc": [
+      3608
+    ],
+    "a807002a": [
+      7591
+    ],
+    "a9c48d6a": [
+      1431
+    ],
+    "aa369c23": [
+      532,
+      761
+    ],
+    "aaa15ac8": [
+      3377
+    ],
+    "ac11f343": [
+      5472
+    ],
+    "bcf2bda3": [
+      8731
+    ],
+    "bec1360a": [
+      8547
+    ],
+    "c06b370d": [
+      1077
+    ],
+    "c17197b0": [
+      8114
+    ],
+    "c93ea183": [
+      6088
+    ],
+    "ca855cb7": [
+      6640
+    ],
+    "d4fe32aa": [
+      2724
+    ],
+    "d9412b39": [
+      4349
+    ],
+    "ed668829": [
+      587
+    ],
+    "fa0fb39c": [
+      6623
+    ],
+    "fb1e88e5": [
+      532,
+      3661
+    ],
+    "ff3829c5": [
+      1058
+    ],
+    "styles": [
+      179,
+      761,
+      1303,
+      3661,
+      6657,
+      6945,
+      7918,
+      7920,
+      8894,
+      9514,
+      532
+    ]
+  },
+  "assets": {
+    "53": {
+      "js": [
+        {
+          "file": "assets/js/935f2afb.7ea152c3.js",
+          "hash": "046e95499b063212",
+          "publicPath": "/WalletConnect-docs/assets/js/935f2afb.7ea152c3.js"
+        }
+      ]
+    },
+    "100": {
+      "js": [
+        {
+          "file": "assets/js/92a86bc9.73ad74db.js",
+          "hash": "bf4247b243f6c215",
+          "publicPath": "/WalletConnect-docs/assets/js/92a86bc9.73ad74db.js"
+        }
+      ]
+    },
+    "136": {
+      "js": [
+        {
+          "file": "assets/js/62d37a14.bdbf6535.js",
+          "hash": "14242829591a158b",
+          "publicPath": "/WalletConnect-docs/assets/js/62d37a14.bdbf6535.js"
+        }
+      ]
+    },
+    "179": {
+      "js": [
+        {
+          "file": "assets/js/main.7e7e707a.js",
+          "hash": "60dace4eae0ddcb5",
+          "publicPath": "/WalletConnect-docs/assets/js/main.7e7e707a.js"
+        }
+      ]
+    },
+    "306": {
+      "js": [
+        {
+          "file": "assets/js/2248b990.a5f8a4bf.js",
+          "hash": "d3ed218812c3d779",
+          "publicPath": "/WalletConnect-docs/assets/js/2248b990.a5f8a4bf.js"
+        }
+      ]
+    },
+    "309": {
+      "js": [
+        {
+          "file": "assets/js/6fb38357.5d538ca3.js",
+          "hash": "539eb5ef7f5bbe70",
+          "publicPath": "/WalletConnect-docs/assets/js/6fb38357.5d538ca3.js"
+        }
+      ]
+    },
+    "375": {
+      "js": [
+        {
+          "file": "assets/js/732398f8.71d13367.js",
+          "hash": "cba868c01d4859b3",
+          "publicPath": "/WalletConnect-docs/assets/js/732398f8.71d13367.js"
+        }
+      ]
+    },
+    "532": {
+      "css": [
+        {
+          "file": "assets/css/styles.a382b0d1.css",
+          "hash": "3d7df873b78953f3",
+          "publicPath": "/WalletConnect-docs/assets/css/styles.a382b0d1.css"
+        }
+      ]
+    },
+    "587": {
+      "js": [
+        {
+          "file": "assets/js/ed668829.bc55e03d.js",
+          "hash": "c4cf467b334353e9",
+          "publicPath": "/WalletConnect-docs/assets/js/ed668829.bc55e03d.js"
+        }
+      ]
+    },
+    "761": {
+      "js": [
+        {
+          "file": "assets/js/aa369c23.2ea04649.js",
+          "hash": "acd92d89246925d1",
+          "publicPath": "/WalletConnect-docs/assets/js/aa369c23.2ea04649.js"
+        }
+      ]
+    },
+    "1058": {
+      "js": [
+        {
+          "file": "assets/js/ff3829c5.62db96a2.js",
+          "hash": "7dd8d6403fc269cf",
+          "publicPath": "/WalletConnect-docs/assets/js/ff3829c5.62db96a2.js"
+        }
+      ]
+    },
+    "1077": {
+      "js": [
+        {
+          "file": "assets/js/c06b370d.7e00b26a.js",
+          "hash": "5c838925323bb994",
+          "publicPath": "/WalletConnect-docs/assets/js/c06b370d.7e00b26a.js"
+        }
+      ]
+    },
+    "1122": {
+      "js": [
+        {
+          "file": "assets/js/1c35ca06.dc4fe840.js",
+          "hash": "bf0beada4af0d18a",
+          "publicPath": "/WalletConnect-docs/assets/js/1c35ca06.dc4fe840.js"
+        }
+      ]
+    },
+    "1303": {
+      "js": [
+        {
+          "file": "assets/js/runtime~main.9c673bc4.js",
+          "hash": "a24d9d395b845ec8",
+          "publicPath": "/WalletConnect-docs/assets/js/runtime~main.9c673bc4.js"
+        }
+      ]
+    },
+    "1431": {
+      "js": [
+        {
+          "file": "assets/js/a9c48d6a.5a7d85ad.js",
+          "hash": "44e67505b6c3d739",
+          "publicPath": "/WalletConnect-docs/assets/js/a9c48d6a.5a7d85ad.js"
+        }
+      ]
+    },
+    "1663": {
+      "js": [
+        {
+          "file": "assets/js/87cf1c09.f4fa4bdc.js",
+          "hash": "0678756f643b4ea3",
+          "publicPath": "/WalletConnect-docs/assets/js/87cf1c09.f4fa4bdc.js"
+        }
+      ]
+    },
+    "2404": {
+      "js": [
+        {
+          "file": "assets/js/278cf360.6922b204.js",
+          "hash": "00930087098a9cc8",
+          "publicPath": "/WalletConnect-docs/assets/js/278cf360.6922b204.js"
+        }
+      ]
+    },
+    "2657": {
+      "js": [
+        {
+          "file": "assets/js/352e0155.b17b1357.js",
+          "hash": "94003705e1c6c61a",
+          "publicPath": "/WalletConnect-docs/assets/js/352e0155.b17b1357.js"
+        }
+      ]
+    },
+    "2724": {
+      "js": [
+        {
+          "file": "assets/js/d4fe32aa.14e965c5.js",
+          "hash": "14cdec5185a382d2",
+          "publicPath": "/WalletConnect-docs/assets/js/d4fe32aa.14e965c5.js"
+        }
+      ]
+    },
+    "2925": {
+      "js": [
+        {
+          "file": "assets/js/2d75e6ad.a9eaea65.js",
+          "hash": "2014e0aafc71f2d4",
+          "publicPath": "/WalletConnect-docs/assets/js/2d75e6ad.a9eaea65.js"
+        }
+      ]
+    },
+    "3377": {
+      "js": [
+        {
+          "file": "assets/js/aaa15ac8.283fdb29.js",
+          "hash": "40a84ff322794ebd",
+          "publicPath": "/WalletConnect-docs/assets/js/aaa15ac8.283fdb29.js"
+        }
+      ]
+    },
+    "3450": {
+      "js": [
+        {
+          "file": "assets/js/8aa48451.d4fd04df.js",
+          "hash": "33b4ff17c34ac37a",
+          "publicPath": "/WalletConnect-docs/assets/js/8aa48451.d4fd04df.js"
+        }
+      ]
+    },
+    "3608": {
+      "js": [
+        {
+          "file": "assets/js/9e4087bc.0c42bd0e.js",
+          "hash": "df409cf53c42513e",
+          "publicPath": "/WalletConnect-docs/assets/js/9e4087bc.0c42bd0e.js"
+        }
+      ]
+    },
+    "3661": {
+      "js": [
+        {
+          "file": "assets/js/fb1e88e5.27c184c2.js",
+          "hash": "132ae97e0e9bbcc4",
+          "publicPath": "/WalletConnect-docs/assets/js/fb1e88e5.27c184c2.js"
+        }
+      ]
+    },
+    "3792": {
+      "js": [
+        {
+          "file": "assets/js/0bae5296.73506aa0.js",
+          "hash": "684b3a8a3a023414",
+          "publicPath": "/WalletConnect-docs/assets/js/0bae5296.73506aa0.js"
+        }
+      ]
+    },
+    "4242": {
+      "js": [
+        {
+          "file": "assets/js/7fc1dd01.7a7af706.js",
+          "hash": "a8882e84a4aaa488",
+          "publicPath": "/WalletConnect-docs/assets/js/7fc1dd01.7a7af706.js"
+        }
+      ]
+    },
+    "4337": {
+      "js": [
+        {
+          "file": "assets/js/761becf6.7f240bad.js",
+          "hash": "4b859954f9892ac5",
+          "publicPath": "/WalletConnect-docs/assets/js/761becf6.7f240bad.js"
+        }
+      ]
+    },
+    "4349": {
+      "js": [
+        {
+          "file": "assets/js/d9412b39.0d146acd.js",
+          "hash": "7895270de150d30d",
+          "publicPath": "/WalletConnect-docs/assets/js/d9412b39.0d146acd.js"
+        }
+      ]
+    },
+    "4553": {
+      "js": [
+        {
+          "file": "assets/js/45e4405f.35425f7c.js",
+          "hash": "e08691e76dbcb0d0",
+          "publicPath": "/WalletConnect-docs/assets/js/45e4405f.35425f7c.js"
+        }
+      ]
+    },
+    "4608": {
+      "js": [
+        {
+          "file": "assets/js/4608.bb48a3b0.js",
+          "hash": "adf3c81812094dcc",
+          "publicPath": "/WalletConnect-docs/assets/js/4608.bb48a3b0.js"
+        },
+        {
+          "file": "assets/js/1be78505.f1c71721.js",
+          "hash": "e7b584d6925017f6",
+          "publicPath": "/WalletConnect-docs/assets/js/1be78505.f1c71721.js"
+        }
+      ]
+    },
+    "5216": {
+      "js": [
+        {
+          "file": "assets/js/6ce91da7.4626c9aa.js",
+          "hash": "d2b994e98db07921",
+          "publicPath": "/WalletConnect-docs/assets/js/6ce91da7.4626c9aa.js"
+        }
+      ]
+    },
+    "5472": {
+      "js": [
+        {
+          "file": "assets/js/ac11f343.c880581a.js",
+          "hash": "aaaa217bd1e51daf",
+          "publicPath": "/WalletConnect-docs/assets/js/ac11f343.c880581a.js"
+        }
+      ]
+    },
+    "5485": {
+      "js": [
+        {
+          "file": "assets/js/9aa54785.a3f21219.js",
+          "hash": "ba8c01e7789bd1b6",
+          "publicPath": "/WalletConnect-docs/assets/js/9aa54785.a3f21219.js"
+        }
+      ]
+    },
+    "6088": {
+      "js": [
+        {
+          "file": "assets/js/c93ea183.e06b0a84.js",
+          "hash": "7ed0b2ea83ab4010",
+          "publicPath": "/WalletConnect-docs/assets/js/c93ea183.e06b0a84.js"
+        }
+      ]
+    },
+    "6125": {
+      "js": [
+        {
+          "file": "assets/js/725ff14e.ab1744bb.js",
+          "hash": "6b3f1fc23dd5012b",
+          "publicPath": "/WalletConnect-docs/assets/js/725ff14e.ab1744bb.js"
+        }
+      ]
+    },
+    "6623": {
+      "js": [
+        {
+          "file": "assets/js/fa0fb39c.4019d89e.js",
+          "hash": "fa3982d2cc10533b",
+          "publicPath": "/WalletConnect-docs/assets/js/fa0fb39c.4019d89e.js"
+        }
+      ]
+    },
+    "6640": {
+      "js": [
+        {
+          "file": "assets/js/ca855cb7.c59d5fe1.js",
+          "hash": "ced70015c87e7691",
+          "publicPath": "/WalletConnect-docs/assets/js/ca855cb7.c59d5fe1.js"
+        }
+      ]
+    },
+    "6657": {
+      "js": [
+        {
+          "file": "assets/js/088d76f9.ef85845d.js",
+          "hash": "d06040edef061fdf",
+          "publicPath": "/WalletConnect-docs/assets/js/088d76f9.ef85845d.js"
+        }
+      ]
+    },
+    "6815": {
+      "js": [
+        {
+          "file": "assets/js/6815.3e924a33.js",
+          "hash": "20276030ad2e01d8",
+          "publicPath": "/WalletConnect-docs/assets/js/6815.3e924a33.js"
+        }
+      ]
+    },
+    "6945": {
+      "js": [
+        {
+          "file": "assets/js/6945.db5e9a1d.js",
+          "hash": "3ec35087b7459791",
+          "publicPath": "/WalletConnect-docs/assets/js/6945.db5e9a1d.js"
+        }
+      ]
+    },
+    "7432": {
+      "js": [
+        {
+          "file": "assets/js/0c611433.5edeef31.js",
+          "hash": "1708a3a5ca7b1c41",
+          "publicPath": "/WalletConnect-docs/assets/js/0c611433.5edeef31.js"
+        }
+      ]
+    },
+    "7591": {
+      "js": [
+        {
+          "file": "assets/js/a807002a.82cfbdfc.js",
+          "hash": "e2ccd4d1a4de66f1",
+          "publicPath": "/WalletConnect-docs/assets/js/a807002a.82cfbdfc.js"
+        }
+      ]
+    },
+    "7694": {
+      "js": [
+        {
+          "file": "assets/js/337b4027.c854e74b.js",
+          "hash": "f35ab2f48784859d",
+          "publicPath": "/WalletConnect-docs/assets/js/337b4027.c854e74b.js"
+        }
+      ]
+    },
+    "7799": {
+      "js": [
+        {
+          "file": "assets/js/0980e2ae.beb7f227.js",
+          "hash": "681fb31008ee226b",
+          "publicPath": "/WalletConnect-docs/assets/js/0980e2ae.beb7f227.js"
+        }
+      ]
+    },
+    "7813": {
+      "js": [
+        {
+          "file": "assets/js/992f46b4.03acb7dd.js",
+          "hash": "66dff8ec1ba27476",
+          "publicPath": "/WalletConnect-docs/assets/js/992f46b4.03acb7dd.js"
+        }
+      ]
+    },
+    "7910": {
+      "js": [
+        {
+          "file": "assets/js/3d3c38ca.d4bc876e.js",
+          "hash": "4156be96386d1674",
+          "publicPath": "/WalletConnect-docs/assets/js/3d3c38ca.d4bc876e.js"
+        }
+      ]
+    },
+    "7918": {
+      "js": [
+        {
+          "file": "assets/js/17896441.a0d91fb5.js",
+          "hash": "8bc3b977d92c18e8",
+          "publicPath": "/WalletConnect-docs/assets/js/17896441.a0d91fb5.js"
+        }
+      ]
+    },
+    "7920": {
+      "js": [
+        {
+          "file": "assets/js/1a4e3797.c04ade91.js",
+          "hash": "9bc3f54b12490cbd",
+          "publicPath": "/WalletConnect-docs/assets/js/1a4e3797.c04ade91.js"
+        }
+      ]
+    },
+    "8114": {
+      "js": [
+        {
+          "file": "assets/js/c17197b0.d96fb51a.js",
+          "hash": "cc58540f3085b2c5",
+          "publicPath": "/WalletConnect-docs/assets/js/c17197b0.d96fb51a.js"
+        }
+      ]
+    },
+    "8374": {
+      "js": [
+        {
+          "file": "assets/js/420cd5ad.118d5fbd.js",
+          "hash": "94147f6c73dae677",
+          "publicPath": "/WalletConnect-docs/assets/js/420cd5ad.118d5fbd.js"
+        }
+      ]
+    },
+    "8401": {
+      "js": [
+        {
+          "file": "assets/js/94fccc14.4fcdb22a.js",
+          "hash": "b22be3996e68ca7e",
+          "publicPath": "/WalletConnect-docs/assets/js/94fccc14.4fcdb22a.js"
+        }
+      ]
+    },
+    "8421": {
+      "js": [
+        {
+          "file": "assets/js/23374ca6.ad68882b.js",
+          "hash": "95f5bb6f3070782c",
+          "publicPath": "/WalletConnect-docs/assets/js/23374ca6.ad68882b.js"
+        }
+      ]
+    },
+    "8446": {
+      "js": [
+        {
+          "file": "assets/js/36570d9b.5d343ece.js",
+          "hash": "f73a323748e45a4d",
+          "publicPath": "/WalletConnect-docs/assets/js/36570d9b.5d343ece.js"
+        }
+      ]
+    },
+    "8547": {
+      "js": [
+        {
+          "file": "assets/js/bec1360a.d92e4441.js",
+          "hash": "9dfbaf4239ea9813",
+          "publicPath": "/WalletConnect-docs/assets/js/bec1360a.d92e4441.js"
+        }
+      ]
+    },
+    "8731": {
+      "js": [
+        {
+          "file": "assets/js/bcf2bda3.e1c3ba7c.js",
+          "hash": "b4e48c5d5e5d48d1",
+          "publicPath": "/WalletConnect-docs/assets/js/bcf2bda3.e1c3ba7c.js"
+        }
+      ]
+    },
+    "8894": {
+      "js": [
+        {
+          "file": "assets/js/8894.b2fe74aa.js",
+          "hash": "d3af6f1d0143164a",
+          "publicPath": "/WalletConnect-docs/assets/js/8894.b2fe74aa.js"
+        }
+      ]
+    },
+    "9361": {
+      "js": [
+        {
+          "file": "assets/js/8be04467.ed04386e.js",
+          "hash": "29967c96e58ad373",
+          "publicPath": "/WalletConnect-docs/assets/js/8be04467.ed04386e.js"
+        }
+      ]
+    },
+    "9673": {
+      "js": [
+        {
+          "file": "assets/js/147929c4.c8098dc7.js",
+          "hash": "84388b962c0798b5",
+          "publicPath": "/WalletConnect-docs/assets/js/147929c4.c8098dc7.js"
+        }
+      ]
+    },
+    "9684": {
+      "js": [
+        {
+          "file": "assets/js/980ffe1d.b96922a5.js",
+          "hash": "2bcf56ad00e4abfb",
+          "publicPath": "/WalletConnect-docs/assets/js/980ffe1d.b96922a5.js"
+        }
+      ]
+    }
+  }
+}

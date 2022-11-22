@@ -1,0 +1,201 @@
+{
+  "/WalletConnect-docs/blog/archive-100": {
+    "component": "9e4087bc",
+    "archive": "62d37a14"
+  },
+  "/WalletConnect-docs/search-7dc": {
+    "component": "1a4e3797"
+  },
+  "/WalletConnect-docs/1.0-8ba": {
+    "component": "1be78505",
+    "versionMetadata": "352e0155"
+  },
+  "/WalletConnect-docs/1.0/-b35": {
+    "component": "17896441",
+    "content": "6fb38357"
+  },
+  "/WalletConnect-docs/1.0/client-api/accountBalance-f96": {
+    "component": "17896441",
+    "content": "0980e2ae"
+  },
+  "/WalletConnect-docs/1.0/client-api/changeTrust-012": {
+    "component": "17896441",
+    "content": "3d3c38ca"
+  },
+  "/WalletConnect-docs/1.0/client-api/connect-43e": {
+    "component": "17896441",
+    "content": "bec1360a"
+  },
+  "/WalletConnect-docs/1.0/client-api/createKeypair-4fc": {
+    "component": "17896441",
+    "content": "36570d9b"
+  },
+  "/WalletConnect-docs/1.0/client-api/curveDecryption-dc4": {
+    "component": "17896441",
+    "content": "ed668829"
+  },
+  "/WalletConnect-docs/1.0/client-api/curveEncryption-09c": {
+    "component": "17896441",
+    "content": "2248b990"
+  },
+  "/WalletConnect-docs/1.0/client-api/disconnect-008": {
+    "component": "17896441",
+    "content": "6ce91da7"
+  },
+  "/WalletConnect-docs/1.0/client-api/payment-602": {
+    "component": "17896441",
+    "content": "fa0fb39c"
+  },
+  "/WalletConnect-docs/1.0/client-api/setNetwork-13a": {
+    "component": "17896441",
+    "content": "45e4405f"
+  },
+  "/WalletConnect-docs/1.0/client-api/signData-1ce": {
+    "component": "17896441",
+    "content": "d9412b39"
+  },
+  "/WalletConnect-docs/1.0/client-api/signXdr-b91": {
+    "component": "17896441",
+    "content": "337b4027"
+  },
+  "/WalletConnect-docs/1.0/client-api/walletConnectStatus-f89": {
+    "component": "17896441",
+    "content": "725ff14e"
+  },
+  "/WalletConnect-docs/1.0/quick-start/dapps/client-735": {
+    "component": "17896441",
+    "content": "088d76f9"
+  },
+  "/WalletConnect-docs/1.0/tech-spec-30a": {
+    "component": "17896441",
+    "content": "1c35ca06"
+  },
+  "/WalletConnect-docs/2.0.0-623": {
+    "component": "1be78505",
+    "versionMetadata": "935f2afb"
+  },
+  "/WalletConnect-docs/2.0.0/-5fa": {
+    "component": "17896441",
+    "content": "23374ca6"
+  },
+  "/WalletConnect-docs/2.0.0/client-api/accountBalance-a3d": {
+    "component": "17896441",
+    "content": "c93ea183"
+  },
+  "/WalletConnect-docs/2.0.0/client-api/changeTrust-a34": {
+    "component": "17896441",
+    "content": "8aa48451"
+  },
+  "/WalletConnect-docs/2.0.0/client-api/connect-2b6": {
+    "component": "17896441",
+    "content": "278cf360"
+  },
+  "/WalletConnect-docs/2.0.0/client-api/createKeypair-826": {
+    "component": "17896441",
+    "content": "980ffe1d"
+  },
+  "/WalletConnect-docs/2.0.0/client-api/curveDecryption-87b": {
+    "component": "17896441",
+    "content": "ac11f343"
+  },
+  "/WalletConnect-docs/2.0.0/client-api/curveEncryption-a1a": {
+    "component": "17896441",
+    "content": "992f46b4"
+  },
+  "/WalletConnect-docs/2.0.0/client-api/disconnect-c5a": {
+    "component": "17896441",
+    "content": "d4fe32aa"
+  },
+  "/WalletConnect-docs/2.0.0/client-api/payment-01a": {
+    "component": "17896441",
+    "content": "420cd5ad"
+  },
+  "/WalletConnect-docs/2.0.0/client-api/setNetwork-758": {
+    "component": "17896441",
+    "content": "8be04467"
+  },
+  "/WalletConnect-docs/2.0.0/client-api/signData-fbf": {
+    "component": "17896441",
+    "content": "761becf6"
+  },
+  "/WalletConnect-docs/2.0.0/client-api/signXdr-4e4": {
+    "component": "17896441",
+    "content": "0c611433"
+  },
+  "/WalletConnect-docs/2.0.0/client-api/walletConnectStatus-ee9": {
+    "component": "17896441",
+    "content": "bcf2bda3"
+  },
+  "/WalletConnect-docs/2.0.0/quick-start/dapps/client-de8": {
+    "component": "17896441",
+    "content": "fb1e88e5"
+  },
+  "/WalletConnect-docs/2.0.0/tech-spec-ece": {
+    "component": "17896441",
+    "content": "ca855cb7"
+  },
+  "/WalletConnect-docs/-7d3": {
+    "component": "1be78505",
+    "versionMetadata": "9aa54785"
+  },
+  "/WalletConnect-docs/-6ba": {
+    "component": "17896441",
+    "content": "a9c48d6a"
+  },
+  "/WalletConnect-docs/client-api/accountBalance-f64": {
+    "component": "17896441",
+    "content": "c06b370d"
+  },
+  "/WalletConnect-docs/client-api/changeTrust-ad6": {
+    "component": "17896441",
+    "content": "92a86bc9"
+  },
+  "/WalletConnect-docs/client-api/connect-648": {
+    "component": "17896441",
+    "content": "aaa15ac8"
+  },
+  "/WalletConnect-docs/client-api/createKeypair-a5d": {
+    "component": "17896441",
+    "content": "732398f8"
+  },
+  "/WalletConnect-docs/client-api/curveDecryption-dd4": {
+    "component": "17896441",
+    "content": "94fccc14"
+  },
+  "/WalletConnect-docs/client-api/curveEncryption-7b2": {
+    "component": "17896441",
+    "content": "ff3829c5"
+  },
+  "/WalletConnect-docs/client-api/disconnect-4dc": {
+    "component": "17896441",
+    "content": "2d75e6ad"
+  },
+  "/WalletConnect-docs/client-api/payment-3a6": {
+    "component": "17896441",
+    "content": "0bae5296"
+  },
+  "/WalletConnect-docs/client-api/setNetwork-9e3": {
+    "component": "17896441",
+    "content": "7fc1dd01"
+  },
+  "/WalletConnect-docs/client-api/signData-f77": {
+    "component": "17896441",
+    "content": "147929c4"
+  },
+  "/WalletConnect-docs/client-api/signXdr-5b1": {
+    "component": "17896441",
+    "content": "c17197b0"
+  },
+  "/WalletConnect-docs/client-api/walletConnectStatus-4fa": {
+    "component": "17896441",
+    "content": "87cf1c09"
+  },
+  "/WalletConnect-docs/quick-start/dapps/client-a17": {
+    "component": "17896441",
+    "content": "aa369c23"
+  },
+  "/WalletConnect-docs/tech-spec-7a3": {
+    "component": "17896441",
+    "content": "a807002a"
+  }
+}

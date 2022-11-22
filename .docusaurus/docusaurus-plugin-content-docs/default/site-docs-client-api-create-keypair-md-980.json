@@ -1,0 +1,23 @@
+{
+  "unversionedId": "client-api/createKeypair",
+  "id": "client-api/createKeypair",
+  "title": "Create Keypair",
+  "description": "Generate mnemonic backup words",
+  "source": "@site/docs/client-api/createKeypair.md",
+  "sourceDirName": "client-api",
+  "slug": "/client-api/createKeypair",
+  "permalink": "/WalletConnect-docs/2.0.0/client-api/createKeypair",
+  "editUrl": "https://github.com/KuknosCo/WalletConnect-docs/docs/client-api/createKeypair.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Set Network",
+    "permalink": "/WalletConnect-docs/2.0.0/client-api/setNetwork"
+  },
+  "next": {
+    "title": "Account Balance",
+    "permalink": "/WalletConnect-docs/2.0.0/client-api/accountBalance"
+  }
+}

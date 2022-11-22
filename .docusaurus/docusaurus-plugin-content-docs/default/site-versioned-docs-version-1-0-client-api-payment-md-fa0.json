@@ -1,0 +1,23 @@
+{
+  "unversionedId": "client-api/payment",
+  "id": "version-1.0/client-api/payment",
+  "title": "Payment",
+  "description": "Sends an amount in a specific asset to a destination account.",
+  "source": "@site/versioned_docs/version-1.0/client-api/payment.md",
+  "sourceDirName": "client-api",
+  "slug": "/client-api/payment",
+  "permalink": "/WalletConnect-docs/1.0/client-api/payment",
+  "editUrl": "https://github.com/KuknosCo/WalletConnect-docs/versioned_docs/version-1.0/client-api/payment.md",
+  "tags": [],
+  "version": "1.0",
+  "frontMatter": {},
+  "sidebar": "version-1.0/mainSidebar",
+  "previous": {
+    "title": "Account Balance",
+    "permalink": "/WalletConnect-docs/1.0/client-api/accountBalance"
+  },
+  "next": {
+    "title": "Sign XDR",
+    "permalink": "/WalletConnect-docs/1.0/client-api/signXdr"
+  }
+}

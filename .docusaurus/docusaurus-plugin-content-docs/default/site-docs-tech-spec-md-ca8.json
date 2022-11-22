@@ -1,0 +1,23 @@
+{
+  "unversionedId": "tech-spec",
+  "id": "tech-spec",
+  "title": "Technical Specification",
+  "description": "Introduction",
+  "source": "@site/docs/tech-spec.md",
+  "sourceDirName": ".",
+  "slug": "/tech-spec",
+  "permalink": "/WalletConnect-docs/2.0.0/tech-spec",
+  "editUrl": "https://github.com/KuknosCo/WalletConnect-docs/docs/tech-spec.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Standalone Client",
+    "permalink": "/WalletConnect-docs/2.0.0/quick-start/dapps/client"
+  },
+  "next": {
+    "title": "Connect",
+    "permalink": "/WalletConnect-docs/2.0.0/client-api/connect"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "unversionedId": "client-api/changeTrust",
+  "id": "version-2.0/client-api/changeTrust",
+  "title": "changeTrust",
+  "description": "",
+  "source": "@site/versioned_docs/version-2.0/client-api/changeTrust.md",
+  "sourceDirName": "client-api",
+  "slug": "/client-api/changeTrust",
+  "permalink": "/WalletConnect-docs/client-api/changeTrust",
+  "editUrl": "https://github.com/KuknosCo/WalletConnect-docs/versioned_docs/version-2.0/client-api/changeTrust.md",
+  "tags": [],
+  "version": "2.0",
+  "frontMatter": {}
+}

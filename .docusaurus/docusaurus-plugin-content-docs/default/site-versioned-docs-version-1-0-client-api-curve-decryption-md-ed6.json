@@ -1,0 +1,19 @@
+{
+  "unversionedId": "client-api/curveDecryption",
+  "id": "version-1.0/client-api/curveDecryption",
+  "title": "Curve Decryption",
+  "description": "Decrypt data with kuknos secret key.",
+  "source": "@site/versioned_docs/version-1.0/client-api/curveDecryption.md",
+  "sourceDirName": "client-api",
+  "slug": "/client-api/curveDecryption",
+  "permalink": "/WalletConnect-docs/1.0/client-api/curveDecryption",
+  "editUrl": "https://github.com/KuknosCo/WalletConnect-docs/versioned_docs/version-1.0/client-api/curveDecryption.md",
+  "tags": [],
+  "version": "1.0",
+  "frontMatter": {},
+  "sidebar": "version-1.0/mainSidebar",
+  "previous": {
+    "title": "Curve Encryption",
+    "permalink": "/WalletConnect-docs/1.0/client-api/curveEncryption"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "client-api/signXdr",
+  "id": "client-api/signXdr",
+  "title": "Sign XDR",
+  "description": "Sign custome XDR",
+  "source": "@site/docs/client-api/signXdr.md",
+  "sourceDirName": "client-api",
+  "slug": "/client-api/signXdr",
+  "permalink": "/WalletConnect-docs/2.0.0/client-api/signXdr",
+  "editUrl": "https://github.com/KuknosCo/WalletConnect-docs/docs/client-api/signXdr.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Payment",
+    "permalink": "/WalletConnect-docs/2.0.0/client-api/payment"
+  },
+  "next": {
+    "title": "Sign Data",
+    "permalink": "/WalletConnect-docs/2.0.0/client-api/signData"
+  }
+}

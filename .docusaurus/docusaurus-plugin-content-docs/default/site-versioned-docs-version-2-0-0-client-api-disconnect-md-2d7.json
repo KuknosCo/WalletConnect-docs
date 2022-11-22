@@ -1,0 +1,23 @@
+{
+  "unversionedId": "client-api/disconnect",
+  "id": "version-2.0.0/client-api/disconnect",
+  "title": "Disconnect",
+  "description": "Disconnect from the wallet and clean walletConnet storage on Dapp.",
+  "source": "@site/versioned_docs/version-2.0.0/client-api/disconnect.md",
+  "sourceDirName": "client-api",
+  "slug": "/client-api/disconnect",
+  "permalink": "/WalletConnect-docs/client-api/disconnect",
+  "editUrl": "https://github.com/KuknosCo/WalletConnect-docs/versioned_docs/version-2.0.0/client-api/disconnect.md",
+  "tags": [],
+  "version": "2.0.0",
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Connect",
+    "permalink": "/WalletConnect-docs/client-api/connect"
+  },
+  "next": {
+    "title": "Connection Status",
+    "permalink": "/WalletConnect-docs/client-api/walletConnectStatus"
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "pluginId": "default",
+  "version": "2.0.0",
+  "label": "2.0.0",
+  "banner": null,
+  "badge": true,
+  "className": "docs-version-2.0.0",
+  "isLast": true,
+  "docsSidebars": {
+    "mainSidebar": [
+      {
+        "type": "link",
+        "label": "Kuknos WalletConnect",
+        "href": "/WalletConnect-docs/",
+        "docId": "readme"
+      },
+      {
+        "type": "category",
+        "label": "Quick Start",
+        "collapsible": true,
+        "collapsed": false,
+        "items": [
+          {
+            "type": "category",
+            "label": "Dapps",
+            "collapsible": true,
+            "collapsed": false,
+            "items": [
+              {
+                "type": "link",
+                "label": "Standalone Client",
+                "href": "/WalletConnect-docs/quick-start/dapps/client",
+                "docId": "quick-start/dapps/client"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "link",
+        "label": "Technical Specification",
+        "href": "/WalletConnect-docs/tech-spec",
+        "docId": "tech-spec"
+      },
+      {
+        "type": "category",
+        "label": "Client Api",
+        "items": [
+          {
+            "type": "link",
+            "label": "Connect",
+            "href": "/WalletConnect-docs/client-api/connect",
+            "docId": "client-api/connect"
+          },
+          {
+            "type": "link",
+            "label": "Disconnect",
+            "href": "/WalletConnect-docs/client-api/disconnect",
+            "docId": "client-api/disconnect"
+          },
+          {
+            "type": "link",
+            "label": "Connection Status",
+            "href": "/WalletConnect-docs/client-api/walletConnectStatus",
+            "docId": "client-api/walletConnectStatus"
+          },
+          {
+            "type": "link",
+            "label": "Set Network",
+            "href": "/WalletConnect-docs/client-api/setNetwork",
+            "docId": "client-api/setNetwork"
+          },
+          {
+            "type": "link",
+            "label": "Create Keypair",
+            "href": "/WalletConnect-docs/client-api/createKeypair",
+            "docId": "client-api/createKeypair"
+          },
+          {
+            "type": "link",
+            "label": "Account Balance",
+            "href": "/WalletConnect-docs/client-api/accountBalance",
+            "docId": "client-api/accountBalance"
+          },
+          {
+            "type": "link",
+            "label": "Payment",
+            "href": "/WalletConnect-docs/client-api/payment",
+            "docId": "client-api/payment"
+          },
+          {
+            "type": "link",
+            "label": "Sign XDR",
+            "href": "/WalletConnect-docs/client-api/signXdr",
+            "docId": "client-api/signXdr"
+          },
+          {
+            "type": "link",
+            "label": "Sign Data",
+            "href": "/WalletConnect-docs/client-api/signData",
+            "docId": "client-api/signData"
+          },
+          {
+            "type": "link",
+            "label": "Curve Encryption",
+            "href": "/WalletConnect-docs/client-api/curveEncryption",
+            "docId": "client-api/curveEncryption"
+          },
+          {
+            "type": "link",
+            "label": "Curve Decryption",
+            "href": "/WalletConnect-docs/client-api/curveDecryption",
+            "docId": "client-api/curveDecryption"
+          }
+        ],
+        "collapsible": true,
+        "collapsed": true
+      }
+    ]
+  },
+  "docs": {
+    "client-api/accountBalance": {
+      "id": "client-api/accountBalance",
+      "title": "Account Balance",
+      "description": "Example",
+      "sidebar": "mainSidebar"
+    },
+    "client-api/changeTrust": {
+      "id": "client-api/changeTrust",
+      "title": "changeTrust",
+      "description": ""
+    },
+    "client-api/connect": {
+      "id": "client-api/connect",
+      "title": "Connect",
+      "description": "To connect to the wallet and receive the wallet's Publickey, you must call the connect method.",
+      "sidebar": "mainSidebar"
+    },
+    "client-api/createKeypair": {
+      "id": "client-api/createKeypair",
+      "title": "Create Keypair",
+      "description": "Generate mnemonic backup words",
+      "sidebar": "mainSidebar"
+    },
+    "client-api/curveDecryption": {
+      "id": "client-api/curveDecryption",
+      "title": "Curve Decryption",
+      "description": "Decrypt data with kuknos secret key.",
+      "sidebar": "mainSidebar"
+    },
+    "client-api/curveEncryption": {
+      "id": "client-api/curveEncryption",
+      "title": "Curve Encryption",
+      "description": "Encrypt data with kuknos public key.",
+      "sidebar": "mainSidebar"
+    },
+    "client-api/disconnect": {
+      "id": "client-api/disconnect",
+      "title": "Disconnect",
+      "description": "Disconnect from the wallet and clean walletConnet storage on Dapp.",
+      "sidebar": "mainSidebar"
+    },
+    "client-api/payment": {
+      "id": "client-api/payment",
+      "title": "Payment",
+      "description": "Sends an amount in a specific asset to a destination account.",
+      "sidebar": "mainSidebar"
+    },
+    "client-api/setNetwork": {
+      "id": "client-api/setNetwork",
+      "title": "Set Network",
+      "description": "You can switch between the public network and the test network by this method.",
+      "sidebar": "mainSidebar"
+    },
+    "client-api/signData": {
+      "id": "client-api/signData",
+      "title": "Sign Data",
+      "description": "Example",
+      "sidebar": "mainSidebar"
+    },
+    "client-api/signXdr": {
+      "id": "client-api/signXdr",
+      "title": "Sign XDR",
+      "description": "Sign custome XDR",
+      "sidebar": "mainSidebar"
+    },
+    "client-api/walletConnectStatus": {
+      "id": "client-api/walletConnectStatus",
+      "title": "Connection Status",
+      "description": "Return connection status.",
+      "sidebar": "mainSidebar"
+    },
+    "quick-start/dapps/client": {
+      "id": "quick-start/dapps/client",
+      "title": "Standalone Client",
+      "description": "Quick Start For Dapps using Standalone Client",
+      "sidebar": "mainSidebar"
+    },
+    "readme": {
+      "id": "readme",
+      "title": "Kuknos WalletConnect",
+      "description": "Introduction",
+      "sidebar": "mainSidebar"
+    },
+    "tech-spec": {
+      "id": "tech-spec",
+      "title": "Technical Specification",
+      "description": "Introduction",
+      "sidebar": "mainSidebar"
+    }
+  }
+}

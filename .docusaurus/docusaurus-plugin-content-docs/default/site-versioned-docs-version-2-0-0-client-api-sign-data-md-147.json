@@ -1,0 +1,23 @@
+{
+  "unversionedId": "client-api/signData",
+  "id": "version-2.0.0/client-api/signData",
+  "title": "Sign Data",
+  "description": "Example",
+  "source": "@site/versioned_docs/version-2.0.0/client-api/signData.md",
+  "sourceDirName": "client-api",
+  "slug": "/client-api/signData",
+  "permalink": "/WalletConnect-docs/client-api/signData",
+  "editUrl": "https://github.com/KuknosCo/WalletConnect-docs/versioned_docs/version-2.0.0/client-api/signData.md",
+  "tags": [],
+  "version": "2.0.0",
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Sign XDR",
+    "permalink": "/WalletConnect-docs/client-api/signXdr"
+  },
+  "next": {
+    "title": "Curve Encryption",
+    "permalink": "/WalletConnect-docs/client-api/curveEncryption"
+  }
+}

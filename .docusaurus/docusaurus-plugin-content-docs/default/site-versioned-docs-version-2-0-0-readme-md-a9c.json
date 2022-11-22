@@ -1,0 +1,23 @@
+{
+  "unversionedId": "readme",
+  "id": "version-2.0.0/readme",
+  "title": "Kuknos WalletConnect",
+  "description": "Introduction",
+  "source": "@site/versioned_docs/version-2.0.0/README.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/WalletConnect-docs/",
+  "editUrl": "https://github.com/KuknosCo/WalletConnect-docs/versioned_docs/version-2.0.0/README.md",
+  "tags": [],
+  "version": "2.0.0",
+  "frontMatter": {
+    "id": "readme",
+    "slug": "/",
+    "position": 1
+  },
+  "sidebar": "mainSidebar",
+  "next": {
+    "title": "Standalone Client",
+    "permalink": "/WalletConnect-docs/quick-start/dapps/client"
+  }
+}

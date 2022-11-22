@@ -1,0 +1,23 @@
+{
+  "unversionedId": "client-api/walletConnectStatus",
+  "id": "version-1.0/client-api/walletConnectStatus",
+  "title": "Connection Status",
+  "description": "Return connection status.",
+  "source": "@site/versioned_docs/version-1.0/client-api/walletConnectStatus.md",
+  "sourceDirName": "client-api",
+  "slug": "/client-api/walletConnectStatus",
+  "permalink": "/WalletConnect-docs/1.0/client-api/walletConnectStatus",
+  "editUrl": "https://github.com/KuknosCo/WalletConnect-docs/versioned_docs/version-1.0/client-api/walletConnectStatus.md",
+  "tags": [],
+  "version": "1.0",
+  "frontMatter": {},
+  "sidebar": "version-1.0/mainSidebar",
+  "previous": {
+    "title": "Disconnect",
+    "permalink": "/WalletConnect-docs/1.0/client-api/disconnect"
+  },
+  "next": {
+    "title": "Set Network",
+    "permalink": "/WalletConnect-docs/1.0/client-api/setNetwork"
+  }
+}
